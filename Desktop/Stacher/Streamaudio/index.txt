@@ -51,3 +51,4 @@
 1005.dfpwm
 1006.dfpwm
 1007.dfpwm
+1008.dfpwm
