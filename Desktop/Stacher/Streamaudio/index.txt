@@ -79,3 +79,4 @@
 1033.dfpwm
 1034.dfpwm
 1035.dfpwm
+1036.dfpwm
